@@ -6,7 +6,7 @@
 # ✅ Please check
 This is development README for Capacitor v1-2. If you use v3 please check [README.md](README.md)
 
-# @capacitor-community/admob
+# @ecc521/capacitor-community-admob
 
 Capacitory community plugin for AdMob.
 
@@ -34,7 +34,7 @@ Maintenance Status: Actively Maintained
 **Supporting iOS14 is be since @1.1.0.**
 
 ```
-% npm install --save @capacitor-community/admob@^1.0.0
+% npm install --save @ecc521/capacitor-community-admob@^1.0.0
 % npx cap update
 ```
 
@@ -136,7 +136,7 @@ import { IonReactRouter } from '@ionic/react-router';
 import Home from './pages/Home';
 
 import { Plugins } from '@capacitor/core';
-import { AdOptions, AdSize, AdPosition } from '@capacitor-community/admob';
+import { AdOptions, AdSize, AdPosition } from '@ecc521/capacitor-community-admob';
 const { AdMob } = Plugins;
 
 const App: React.FC = () => {
@@ -193,7 +193,7 @@ export default App;
 
 ```ts
 import { Plugins } from '@capacitor/core';
-import { AdOptions, AdSize, AdPosition } from '@capacitor-community/admob';
+import { AdOptions, AdSize, AdPosition } from '@ecc521/capacitor-community-admob';
 const { AdMob } = Plugins;
 
 @Component({
@@ -267,7 +267,7 @@ addListener(eventName: 'onAdSize', listenerFunc: (info: any) => void): PluginLis
 
 ```ts
 import { Plugins } from '@capacitor/core';
-import { AdOptions } from '@capacitor-community/admob';
+import { AdOptions } from '@ecc521/capacitor-community-admob';
 const { AdMob } = Plugins;
 
 @Component({
@@ -318,7 +318,7 @@ addListener(eventName: 'onInterstitialAdLeftApplication', listenerFunc: (info: a
 
 ```ts
 import { Plugins } from '@capacitor/core';
-import { AdOptions } from '@capacitor-community/admob';
+import { AdOptions } from '@ecc521/capacitor-community-admob';
 const { AdMob } = Plugins;
 
 @Component({
