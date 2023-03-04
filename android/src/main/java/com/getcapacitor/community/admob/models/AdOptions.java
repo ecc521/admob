@@ -1,9 +1,9 @@
-package com.getcapacitor.community.admob.models;
+package com.getcapacitor.ecc521.community.admob.models;
 
 import androidx.annotation.VisibleForTesting;
 import com.getcapacitor.PluginCall;
-import com.getcapacitor.community.admob.banner.BannerAdSizeEnum;
-import com.getcapacitor.community.admob.rewarded.models.SsvInfo;
+import com.getcapacitor.ecc521.community.admob.banner.BannerAdSizeEnum;
+import com.getcapacitor.ecc521.community.admob.rewarded.models.SsvInfo;
 
 /**
  * Holds the options for an Ad Request

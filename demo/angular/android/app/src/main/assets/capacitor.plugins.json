@@ -1,6 +1,6 @@
 [
 	{
-		"pkg": "@capacitor-community/admob",
-		"classpath": "com.getcapacitor.community.admob.AdMob"
+		"pkg": "@ecc521/capacitor-community-admob",
+		"classpath": "com.getcapacitor.ecc521.community.admob.AdMob"
 	}
 ]

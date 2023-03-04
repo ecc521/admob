@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob.rewarded.models
+package com.getcapacitor.ecc521.community.admob.rewarded.models
 
 import com.getcapacitor.PluginCall
 

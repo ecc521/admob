@@ -1,8 +1,8 @@
-package com.getcapacitor.community.admob.helpers
+package com.getcapacitor.ecc521.community.admob.helpers
 
 import com.getcapacitor.JSObject
-import com.getcapacitor.community.admob.models.AdMobPluginError
-import com.getcapacitor.community.admob.models.LoadPluginEventNames
+import com.getcapacitor.ecc521.community.admob.models.AdMobPluginError
+import com.getcapacitor.ecc521.community.admob.models.LoadPluginEventNames
 import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.FullScreenContentCallback
 import com.google.android.gms.common.util.BiConsumer

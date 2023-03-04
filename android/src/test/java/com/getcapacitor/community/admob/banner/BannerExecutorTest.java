@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob.banner;
+package com.getcapacitor.ecc521.community.admob.banner;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.ArgumentMatchers.any;
@@ -19,10 +19,10 @@ import android.widget.RelativeLayout;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import com.getcapacitor.JSObject;
 import com.getcapacitor.PluginCall;
-import com.getcapacitor.community.admob.banner.BannerExecutor;
-import com.getcapacitor.community.admob.helpers.AdViewIdHelper;
-import com.getcapacitor.community.admob.helpers.RequestHelper;
-import com.getcapacitor.community.admob.models.AdOptions;
+import com.getcapacitor.ecc521.community.admob.banner.BannerExecutor;
+import com.getcapacitor.ecc521.community.admob.helpers.AdViewIdHelper;
+import com.getcapacitor.ecc521.community.admob.helpers.RequestHelper;
+import com.getcapacitor.ecc521.community.admob.models.AdOptions;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.common.util.BiConsumer;

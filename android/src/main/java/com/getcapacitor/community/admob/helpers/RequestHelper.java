@@ -1,7 +1,7 @@
-package com.getcapacitor.community.admob.helpers;
+package com.getcapacitor.ecc521.community.admob.helpers;
 
 import android.os.Bundle;
-import com.getcapacitor.community.admob.models.AdOptions;
+import com.getcapacitor.ecc521.community.admob.models.AdOptions;
 import com.google.ads.mediation.admob.AdMobAdapter;
 import com.google.android.gms.ads.AdRequest;
 

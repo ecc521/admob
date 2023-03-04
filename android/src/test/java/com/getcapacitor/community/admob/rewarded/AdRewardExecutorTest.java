@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob.rewarded;
+package com.getcapacitor.ecc521.community.admob.rewarded;
 
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.MatcherAssert.assertThat;

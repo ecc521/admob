@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob.models
+package com.getcapacitor.ecc521.community.admob.models
 
 interface LoadPluginEventNames {
     val Showed: String

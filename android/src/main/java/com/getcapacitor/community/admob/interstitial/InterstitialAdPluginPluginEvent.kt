@@ -1,6 +1,6 @@
-package com.getcapacitor.community.admob.interstitial
+package com.getcapacitor.ecc521.community.admob.interstitial
 
-import com.getcapacitor.community.admob.models.LoadPluginEventNames
+import com.getcapacitor.ecc521.community.admob.models.LoadPluginEventNames
 
 object InterstitialAdPluginPluginEvent: LoadPluginEventNames {
     const val Loaded = "interstitialAdLoaded"

@@ -1,6 +1,6 @@
-package com.getcapacitor.community.admob.rewarded
+package com.getcapacitor.ecc521.community.admob.rewarded
 
-import com.getcapacitor.community.admob.models.LoadPluginEventNames
+import com.getcapacitor.ecc521.community.admob.models.LoadPluginEventNames
 
 object RewardAdPluginEvents: LoadPluginEventNames {
     const val Loaded = "onRewardedVideoAdLoaded"

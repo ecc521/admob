@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob.banner;
+package com.getcapacitor.ecc521.community.admob.banner;
 
 import android.app.Activity;
 import android.content.Context;
@@ -12,11 +12,11 @@ import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.core.util.Supplier;
 import com.getcapacitor.JSObject;
 import com.getcapacitor.PluginCall;
-import com.getcapacitor.community.admob.helpers.AdViewIdHelper;
-import com.getcapacitor.community.admob.helpers.RequestHelper;
-import com.getcapacitor.community.admob.models.AdMobPluginError;
-import com.getcapacitor.community.admob.models.AdOptions;
-import com.getcapacitor.community.admob.models.Executor;
+import com.getcapacitor.ecc521.community.admob.helpers.AdViewIdHelper;
+import com.getcapacitor.ecc521.community.admob.helpers.RequestHelper;
+import com.getcapacitor.ecc521.community.admob.models.AdMobPluginError;
+import com.getcapacitor.ecc521.community.admob.models.AdOptions;
+import com.getcapacitor.ecc521.community.admob.models.Executor;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;

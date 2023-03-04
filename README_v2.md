@@ -52,7 +52,7 @@ In file `android/app/src/main/java/**/**/MainActivity.java`, add the plugin to t
 ```java
 this.init(savedInstanceState, new ArrayList<Class<? extends Plugin>>() {{
   [...]
-  add(com.getcapacitor.community.admob.AdMob.class);
+  add(com.getcapacitor.ecc521.community.admob.AdMob.class);
   [...]
 }});
 ```

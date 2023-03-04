@@ -1,9 +1,9 @@
-package com.getcapacitor.community.admob.interstitial
+package com.getcapacitor.ecc521.community.admob.interstitial
 
 import com.getcapacitor.JSObject
 import com.getcapacitor.PluginCall
-import com.getcapacitor.community.admob.helpers.FullscreenPluginCallback
-import com.getcapacitor.community.admob.models.AdMobPluginError
+import com.getcapacitor.ecc521.community.admob.helpers.FullscreenPluginCallback
+import com.getcapacitor.ecc521.community.admob.models.AdMobPluginError
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.interstitial.InterstitialAd
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback

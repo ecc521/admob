@@ -1,12 +1,12 @@
-package com.getcapacitor.community.admob.rewarded
+package com.getcapacitor.ecc521.community.admob.rewarded
 
 import android.app.Activity
 import android.content.Context
 import com.getcapacitor.JSObject
 import com.getcapacitor.PluginCall
-import com.getcapacitor.community.admob.helpers.FullscreenPluginCallback
-import com.getcapacitor.community.admob.models.AdOptions
-import com.getcapacitor.community.admob.rewarded.models.SsvInfo
+import com.getcapacitor.ecc521.community.admob.helpers.FullscreenPluginCallback
+import com.getcapacitor.ecc521.community.admob.models.AdOptions
+import com.getcapacitor.ecc521.community.admob.rewarded.models.SsvInfo
 import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.rewarded.RewardItem

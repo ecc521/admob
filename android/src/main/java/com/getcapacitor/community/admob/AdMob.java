@@ -1,4 +1,4 @@
-package com.getcapacitor.community.admob;
+package com.getcapacitor.ecc521.community.admob;
 
 import android.Manifest;
 import com.getcapacitor.JSArray;
@@ -8,11 +8,11 @@ import com.getcapacitor.PluginCall;
 import com.getcapacitor.PluginMethod;
 import com.getcapacitor.annotation.CapacitorPlugin;
 import com.getcapacitor.annotation.Permission;
-import com.getcapacitor.community.admob.banner.BannerExecutor;
-import com.getcapacitor.community.admob.helpers.AuthorizationStatusEnum;
-import com.getcapacitor.community.admob.interstitial.AdInterstitialExecutor;
-import com.getcapacitor.community.admob.interstitial.InterstitialAdCallbackAndListeners;
-import com.getcapacitor.community.admob.rewarded.AdRewardExecutor;
+import com.getcapacitor.ecc521.community.admob.banner.BannerExecutor;
+import com.getcapacitor.ecc521.community.admob.helpers.AuthorizationStatusEnum;
+import com.getcapacitor.ecc521.community.admob.interstitial.AdInterstitialExecutor;
+import com.getcapacitor.ecc521.community.admob.interstitial.InterstitialAdCallbackAndListeners;
+import com.getcapacitor.ecc521.community.admob.rewarded.AdRewardExecutor;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.RequestConfiguration;
 import com.google.android.gms.ads.initialization.InitializationStatus;
