@@ -8,7 +8,6 @@ import type {
 import type { AdMobRewardItem } from './reward';
 import type { AdOptions, AdLoadInfo } from './shared';
 import type { TrackingAuthorizationStatusInterface } from './shared/tracking-authorization-status.interface';
-import type { ApplicationMutedOptions, ApplicationVolumeOptions } from '.';
 
 export class AdMobWeb extends WebPlugin implements AdMobPlugin {
   constructor() {
